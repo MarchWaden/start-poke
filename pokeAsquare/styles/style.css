@@ -6,10 +6,16 @@ html, body {
   height: 5vh;
   margin-right: 1%;
   display: inline-block;
+  background-color: red;
+}
+.squares .blue_square {
   background-color: blue;
 }
-.blue_square div{
-  background-color: blue;
+.squares .red_squares {
+  background-color: red;
+}
+.squares .green_squares{
+  background-color: green;
 }
 header {
   width: 100%;
